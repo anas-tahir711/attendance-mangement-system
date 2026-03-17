@@ -1,2 +1,2 @@
 # Atm-management-System
-A simple attendance management system built in Python.
+A simple ATM management system built in Python.
